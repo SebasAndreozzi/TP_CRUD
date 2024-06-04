@@ -1,4 +1,4 @@
-from listas_generales import print_list
+from lists_general import print_list
 
 def get_int(message:str, message_error:str, min:int, max:int) -> int:
     

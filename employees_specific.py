@@ -1,5 +1,5 @@
 from input import *
-from listas_generales import print_list
+from lists_general import print_list
 from find_check import find_by_key
 
 def get_average(values:list[int|float]) -> int|float:
