@@ -42,12 +42,7 @@ Eliminar empleado: Eliminará permanentemente a un empleado de la lista original
 
 Mostrar todos: Imprimirá por consola la información de todos los empleados en formato de tabla:
 
-****************************************************
-|    Nombre    |   Apellido   |      Puesto      |    Salario     |
-—-----------------------------------------------------------
-|    German    |   Scarafilo  |     Gerente      |   $500.000 |
-|   Giovanni    | Lucchetta  |  Supervisor    |  $300.000 |
-****************************************************
+![Formato_de_lista](./img/employee_list_format.png)
 
 Calcular salario promedio: Calculará e imprimirá el salario promedio de todos los empleados.
 
